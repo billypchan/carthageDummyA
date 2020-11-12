@@ -1,2 +1,2 @@
-github "billypchan/carthageDummyB" ~> 1.0
-github "billypchan/carthageDummyC" ~> 1.0
+github "billypchan/carthageDummyB" ~> 2.4
+github "billypchan/carthageDummyC" ~> 3.1
