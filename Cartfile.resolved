@@ -1,0 +1,4 @@
+github "billypchan/carthageDummyB" "2.4"
+github "billypchan/carthageDummyC" "3.1"
+github "billypchan/carthageDummyD" "4.13"
+github "billypchan/carthageDummyE" "4.0.17"
